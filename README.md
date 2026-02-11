@@ -35,6 +35,6 @@
 
 ###
 
-![snake gif](https://github.com/pedro-pires0-0/pedro-pires0-0/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 ###
